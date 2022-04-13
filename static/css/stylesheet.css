@@ -1,3 +1,35 @@
-body{
-    background-color: grey;
+h1 {
+    background-color: #4e4e4e;
+    color: white;
+    font-size: large;
 }
+nav {
+    background-color: #4e4e4e;
+}
+div {
+    background-color: #4e4e4e;
+}
+footer {
+    background-color: #4e4e4e;
+    color: white;
+}
+a:link, a:visited {
+    background-color: #4e4e4e;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:hover, a:focus {
+    background-color: #242424;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  figcaption {
+      color: blue;
+      text-decoration: underline;
+  }
