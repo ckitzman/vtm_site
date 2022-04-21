@@ -23,7 +23,7 @@ a:link, a:visited {
   }
   a:hover, a:focus {
     background-color: #242424;
-    color: white;
+    color: red;
     padding: 8px 15px;
     text-align: center;
     text-decoration: none;
