@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'vtm-tank-site-kitzman'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1B48A6D2236743F4AAC09C0C0C2469AB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_14696702EE7B449EBE53DD14A1831C5C }}
